@@ -1,17 +1,17 @@
 # Spectre_Link
 Mine and a friends take on a flipper zero with some added features built in
 ## Includes
-Rfid Reader
-Nfc Reader/Writer/Emulator
-Lora Module
-CC1101 Module
-Ir Reader/Writer
-MicroSD Card Slot
-Vibration Module
-Joystick Controls
-Pogo Pins for data transfer to other Spectre Links, and For module add-ons
-10,000mAh Battery
-Esp-32-S3
+- Rfid Reader
+- Nfc Reader/Writer/Emulator
+- Lora Module
+- CC1101 Module
+- Ir Reader/Writer
+- MicroSD Card Slot
+- Vibration Module
+- Joystick Controls
+- Pogo Pins for data transfer to other Spectre Links, and For module add-ons
+- 10,000mAh Battery
+- Esp-32-S3
 
 
 
